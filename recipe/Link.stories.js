@@ -12,7 +12,7 @@ export default {
 export const usage = () => <Link to="/">Click Me</Link>;
 
 export const attributes = () => (
-  <Link to="/" title="Link Title">
+  <Link to="/some-link" title="Some Link">
     Some Link
   </Link>
 );
