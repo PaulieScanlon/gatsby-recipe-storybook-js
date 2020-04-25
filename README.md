@@ -1,4 +1,4 @@
-# js-storybook-recipe
+# gatsby-recipe-storybook-js
 
 ## A recipe to add Storybook to your **JavaScript** Gatsby project
 
