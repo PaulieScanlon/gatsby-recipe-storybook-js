@@ -16,5 +16,5 @@ Wanna give it a try?
 
 ```sh
 
-gatsby recipes https://raw.githubusercontent.com/PaulieScanlon/js-storybook-recipe/master/js-storybook-recipe.mdx
+gatsby recipes https://raw.githubusercontent.com/PaulieScanlon/gatsby-recipe-storybook-js/master/gatsby-recipe-storybook-js.mdx
 ```
