@@ -1,7 +1,7 @@
 {
-  "name": "storybook-recipe",
+  "name": "gatsby-recipe-storybook-js",
   "version": "1.0.0",
-  "description": "A recipe to install Storybook",
+  "description": "A recipe to add Storybook to your JavaScript Gatsby project",
   "main": "index.js",
   "scripts": {
     "develop": "gatsby develop",
