@@ -20,7 +20,7 @@ This recipe will automate the following steps
 - Create custom Storybook webpack config (main.js)
 - Configure Storybook / Gatsby Link settings (preview.js)
 - Create example Link stories
-- CLI text promp to advise about adding Storybook npm scripts in package.json
+- Add Storybook npm scripts to `package.json`
 
 Wanna give it a try?
 

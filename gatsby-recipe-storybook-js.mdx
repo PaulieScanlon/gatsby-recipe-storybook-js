@@ -50,16 +50,19 @@ Create example Link stories
 
 ---
 
+Add Storybook npm scripts
+
+<NPMScript
+  name="storybook"
+  command="NODE_ENV=production start-storybook -s ./public -p 6006 --ci"
+/>
+<NPMScript
+  name="build-storybook"
+  command="NODE_ENV=production build-storybook"
+/>
+
+---
+
 ## You're all done!
 
-Now you just need to add some scripts to package.json
-
-"storybook": "NODE_ENV=production start-storybook -s ./public -p 6006 --ci",
-
-"build-storybook": " NODE_ENV=production build-storybook",
-
-## Oh, and before I forget!
-
-Before your run Storybook make sure you run gatsby develop or gatsby build
-
-This is so GraphQL data is available in Storybook
+Before your run Storybook make sure you run gatsby develop or gatsby build. This is so GraphQL data is available in Storybook

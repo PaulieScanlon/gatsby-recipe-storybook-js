@@ -9,7 +9,7 @@
     "clean": "gatsby clean",
     "serve": "gatsby serve",
     "storybook": "NODE_ENV=production start-storybook -s ./public -p 6006 --ci",
-    "build-storybook": " NODE_ENV=production build-storybook",
+    "build-storybook": "NODE_ENV=production build-storybook",
     "reset": "node reset.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
