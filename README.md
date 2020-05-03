@@ -16,8 +16,9 @@ These are not _problems_ with either Gatsby or Storybook but there are one or tw
 This recipe will automate the following steps
 
 - Install babel plugins and presets
+- Install babel-plugin-react-docgen
 - Install Storybook React NPM packages and addons
-- Create custom Storybook webpack config (main.js)
+- Create custom Storybook webpack config (main.js) for `js|jsx`
 - Configure Storybook / Gatsby Link settings (preview.js)
 - Create example Link stories
 - Add Storybook npm scripts to `package.json`
